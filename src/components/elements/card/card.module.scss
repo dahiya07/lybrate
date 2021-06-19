@@ -1,0 +1,34 @@
+.card {
+  border: 1px solid rgba(10, 107, 255, 0.7);
+  border-radius: 25px;
+  margin: 20px;
+  width: 250px;
+  height: 250px;
+  padding: 10px;
+  text-align: center;
+  .img {
+    img {
+      width: 10rem;
+      height: 10rem;
+      border-radius: 30%;
+    }
+  }
+  .content {
+    h6 {
+      font-size: 1.25rem;
+      font-weight: bold;
+      margin: 10px 0;
+    }
+    p {
+      font-size: 0.8rem;
+      color: rgba(0, 0, 0, 0.6);
+    }
+  }
+}
+
+// @media (max-width: 1024px) {
+//   .card {
+//     margin: 15px 70px;
+//     width: 250px;
+//   }
+// }
