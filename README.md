@@ -1,5 +1,5 @@
 # Lybrate
-Web app in which you can search the user by email id in real time with infinte scroll.Style by node-sass(SCSS).Well structured code.
+React app in which you can search the user by email id in real time with infinte scroll.Style by node-sass(SCSS).Well structured code.
 
 ## Working Model of the app
 ![demo](lybrate.gif)
