@@ -1,17 +1,14 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Lybrate
+Web app in which you can search the user by email id in real time with infinte scroll. Well structured code.
 
 ## Working Model of the app
 ![demo](lybrate.gif)
 
-In the project directory, you can run:
+## Requirements
+###### No external/addditional Requirements . Windows supported Single page App. 
 
-### `npm start`
+### <b>Steps to run the app</b> :
+###### 1) Clone this repo or Download all the files/folder and run npm install.
+###### 2) Then run npm start and open [http://localhost:3000](http://localhost:3000) to view it in the browser. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
